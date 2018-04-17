@@ -1,4 +1,20 @@
 <!DOCTYPE html>
 <html>
+<link rel="stylesheet" type="text/css" href="style.css">
+<title>
+<head>My Hobbies </head>
+</title>
 <body>
-<h1>
+<h1>Dance </h1>
+<p> My hobby is dancing and doing gymnastics. </p>
+<img src="https://mail.google.com/mail/u/0/?ui=2&ik=7d4dc14e53&view=fimg&th=162d1b410778a6f9&attid=0.1.1&disp=emb&attbid=ANGjdJ_CM7S1zrGi8adSJxdkQqu19hKyffbhBoJfmXaRZQcnUrcj7W2SStp9Uyy2jCZlqb8Z2yfTdEtIQP20NA-5EY4Y2pkyvRNiq5xqweQjW1GI7rXE_7BU2PQ4D-Q&sz=s0-l75-ft&ats=1523937491640&rm=162d1b410778a6f9&zw&atsh=1"/>
+<img src="https://mail.google.com/mail/u/0/?ui=2&ik=7d4dc14e53&view=fimg&th=162d1aefe60fe157&attid=0.1.1&disp=emb&attbid=ANGjdJ8eBsdQ1Zo1W9EjNH9umRYm7whDaAa4FcM_WKGFkQ2Ju5VQm4-PSXra-R3s3lAXF7_gIT8eVeBs39Zz0tZnd5m3PyxbjIAfjtMxKOy5ycj4nylW5l4yujnZWpg&sz=s0-l75-ft&ats=1523937471854&rm=162d1aefe60fe157&zw&atsh=1"/>
+<p> I started dancing Ballet when I was 3 after watching the movie "Barbie and The Twelve Dancing Princesses". Since then,I would dance to every song I hear. My parents decided to send me for ballet class. After 10 years, I'm still dancing ballet. </p>
+<p> In December 2017, I decided to take up acrobatic gymnastics. I love acrobatic gymnatics as I get to learn the tricks that I've always wanted to do, e.g. handstands and cartwheels.</p>
+<p> I hope that with the skills that I have learnt through my hobbies, I will be able to become a Principle Dancer in a famous ballet company. :)</p>
+
+<a href="index.html"> Main Page </a>
+</body>
+</html>
+
+
